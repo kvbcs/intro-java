@@ -1,3 +1,4 @@
+package Exos;
 import java.util.Scanner;
 
 public class Multi {
